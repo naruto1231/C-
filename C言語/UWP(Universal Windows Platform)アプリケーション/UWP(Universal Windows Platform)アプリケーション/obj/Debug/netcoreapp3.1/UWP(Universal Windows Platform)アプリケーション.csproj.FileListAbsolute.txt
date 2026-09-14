@@ -1,0 +1,19 @@
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.csprojAssemblyReference.cache
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション_MarkupCompile.cache
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション_MarkupCompile.lref
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\bin\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.exe
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\bin\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.deps.json
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\bin\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.runtimeconfig.json
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\bin\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.runtimeconfig.dev.json
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\bin\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.dll
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\bin\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.pdb
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.g.resources
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.AssemblyInfoInputs.cache
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.AssemblyInfo.cs
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.csproj.CoreCompileInputs.cache
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.dll
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.pdb
+C:\Users\mochitoku koki\OneDrive\デスクトップ\UWP(Universal Windows Platform)アプリケーション\UWP(Universal Windows Platform)アプリケーション\obj\Debug\netcoreapp3.1\UWP(Universal Windows Platform)アプリケーション.genruntimeconfig.cache
